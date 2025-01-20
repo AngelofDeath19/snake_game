@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\angel\\source\\repos\\Z\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A24E2850-6329-4C12-8911-DE65A65CC6D4}|Z\\Z.vcxproj|C:\\Users\\angel\\source\\repos\\Z\\Z\\Z.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A24E2850-6329-4C12-8911-DE65A65CC6D4}|Z\\Z.vcxproj|solutionrelative:Z\\Z.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Z.cpp",
+              "DocumentMoniker": "C:\\Users\\angel\\source\\repos\\Z\\Z\\Z.cpp",
+              "RelativeDocumentMoniker": "Z\\Z.cpp",
+              "ToolTip": "C:\\Users\\angel\\source\\repos\\Z\\Z\\Z.cpp",
+              "RelativeToolTip": "Z\\Z.cpp",
+              "ViewState": "AgIAANkAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-20T20:44:43.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+﻿  Z.cpp
+C:\Users\angel\source\repos\Z\Z\Z.cpp(149,50): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\angel\source\repos\Z\Z\Z.cpp(149,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\angel\source\repos\Z\Z\Z.cpp(156,55): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\angel\source\repos\Z\Z\Z.cpp(156,32): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Z.vcxproj -> C:\Users\angel\source\repos\Z\x64\Debug\Z.exe
